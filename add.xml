@@ -1,0 +1,144 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556/wpn_fps_ass_ak_chicom_556"/>
+	
+	<!-- DUMMY PARTS -->
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_shared_pts/wpn_fps_ass_ak_chicom_556_ba_dummy"/>
+	
+	<!-- TYPE 84 PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_main_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_nam_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_barrel_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_bayonet_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_dust_cover_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_bolt_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_rear_sight_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/t84_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_ba_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_bo_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_clr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_dc_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_fsl_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_gb_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_gt_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_lfhgr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_lrhgr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_ufhgr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_urhgr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_hm_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_lhg_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_uhg_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_mr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_md_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_pg_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_fo_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_ro_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_fsb_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_rsb_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_rcs_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_re_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_st_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_tr_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_trg_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_ftru_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_rtru_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_by_f_t84"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t84_pts/wpn_fps_ass_ak_chicom_556_by_uf_t84"/>
+	
+	<!-- TYPE 84-1 PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t841_pts/t841_main_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t841_pts/wpn_fps_ass_ak_chicom_556_fsb_t841"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t841_pts/wpn_fps_ass_ak_chicom_556_re_t841"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t841_pts/wpn_fps_ass_ak_chicom_556_st_f_t841"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t841_pts/wpn_fps_ass_ak_chicom_556_st_uf_t841"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t841_pts/wpn_fps_ass_ak_chicom_556_rtru_t841"/>
+	
+	<!-- TYPE 84-2 PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/t842_furniture_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/t842_stock_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/wpn_fps_ass_ak_chicom_556_lhg_t842"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/wpn_fps_ass_ak_chicom_556_uhg_t842"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/wpn_fps_ass_ak_chicom_556_pg_t842"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/wpn_fps_ass_ak_chicom_556_st_f_t842"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/wpn_fps_ass_ak_chicom_556_st_uf_t842"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_t842_pts/wpn_fps_ass_ak_chicom_556_rtru_t842"/>
+
+	<!-- MAG PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_mag_pts/mag_steel_30_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_mag_pts/wpn_fps_ass_ak_chicom_556_m_steel_30"/>
+	
+	<!-- MOUNT PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_556_shared_pts/wpn_fps_ass_ak_chicom_556_om_tula"/>
+	
+	<!-- ICONS -->
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_chicom_556"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_m_steel_10"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_m_steel_40"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_m_beer_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_m_bake_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_m_bake_40"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_m_ak103_30"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_pg_t84_wood"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_md_ak"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_ro_t84b"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_md_t84l"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_re_t84s"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_st_uf_t84s"/>
+
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_ba_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_bo_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_clr_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_dc_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_fsb_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_gb_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_lhg_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_uhg_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_pg_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_re_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_st_uf_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_tr_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_md_ak103"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_ba_ak104"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_gb_ak104"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_md_ak104"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_re_wasr"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_lhg_wasr"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_uhg_wasr"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_lhg_shark"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_uhg_t84"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_t84"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_t84"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_clr_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_dc_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_lhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_uhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_md_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_556_st_no"/>
+
+</AddFiles>
